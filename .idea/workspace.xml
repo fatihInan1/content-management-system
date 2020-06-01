@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea46ed0-4e4c-4c5a-bf5d-4a5e604ff95f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aG8HFh0xlvf51S6phg0kQaKJ7g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/view/udemy-v1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\cms\app\view\udemy-v1" />
+      <recent name="C:\wamp64\www\cms\app\controller" />
+      <recent name="C:\wamp64\www\cms\app\view" />
+      <recent name="C:\wamp64\www\cms\admin\view" />
+      <recent name="C:\wamp64\www\cms\admin\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\cms\app\view\udemy-v1\static" />
+      <recent name="C:\wamp64\www\cms\app\view\udemy-v1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea46ed0-4e4c-4c5a-bf5d-4a5e604ff95f" name="Default Changelist" comment="" />
+      <created>1586350480895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586350480895</updated>
+      <workItem from="1586350482379" duration="18448000" />
+      <workItem from="1587320903790" duration="3207000" />
+      <workItem from="1587404666538" duration="624000" />
+      <workItem from="1587469386696" duration="16358000" />
+      <workItem from="1587678178722" duration="28000" />
+      <workItem from="1587739523169" duration="5714000" />
+      <workItem from="1587824516419" duration="8294000" />
+      <workItem from="1587912870529" duration="2463000" />
+      <workItem from="1587992061583" duration="3531000" />
+      <workItem from="1588086200786" duration="10220000" />
+      <workItem from="1588102708743" duration="2203000" />
+      <workItem from="1590665284898" duration="260000" />
+      <workItem from="1590997529789" duration="1494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="0" key="#PHP" timestamp="1587913001786">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1587913001786" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1588102814024">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1588102814024" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1590997529843">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590997529843" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1588102709724" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1588088368221">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1588088368221" />
+    <state x="1989" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1590998987839">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1989" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590998987839" />
+  </component>
+</project>
