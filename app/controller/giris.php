@@ -13,6 +13,24 @@ if (post('submit')) {
         $error = 'Lütfen kullanıcı adınızı yazın.';
     } elseif (!$password) {
         $error = 'Lütfen şifrenizi girin.';
+    } else {
+        //üye var mı kontrol et
+        $row = user::userExist($username);
+
+        if ($row) {
+            //parola kontrolü yap
+            $password_verify = password_verify($password, $row['user_password']);
+
+            if ($password_verify) {
+                $success = 'Başarıyla giriş yaptınız, yönlendiriliyorsunuz';
+                user::Login($row);
+                header('Refresh:2;url=' . site_url());
+            } else {
+                $error = 'Şifreniz hatalı, lütfen kontrol edin!';
+            }
+        } else {
+            $error = 'Böyle bir kullanıcı sistemde gözükmüyor.';
+        }
     }
 
 }

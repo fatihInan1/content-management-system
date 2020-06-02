@@ -15,4 +15,4 @@ $settings["twitter"] = "fatihinan";
 $settings["instagram"] = "fatihinan";
 $settings["linkedin"] = "fatihinan";
 $settings["welcome_title"] = "Beni tanımaya hazır mısın?";
-$settings["welcome_text"] = "HAdi başlayalım...";
+$settings["welcome_text"] = "Hadi başlayalım...";
